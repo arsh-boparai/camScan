@@ -1,0 +1,23 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-camscanner": {
+      "IOS_APP_KEY": "QT4CX6fQP6UP8E39Ne1g3DB1",
+      "BUNDLE_ID": "com.chargerlogistics.driverapp",
+      "PACKAGE_NAME": "com.charger.driverapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.charger.driverapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.charger.driverapp"
+    }
+  },
+  "dependent_plugins": {}
+}

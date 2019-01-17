@@ -1,0 +1,30 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@4.0.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-camscanner": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-camscanner@^1.2.4"
+    },
+    "is_top_level": true,
+    "variables": {
+      "IOS_APP_KEY": "QT4CX6fQP6UP8E39Ne1g3DB1",
+      "BUNDLE_ID": "com.chargerlogistics.driverapp",
+      "ANDROID_APP_KEY": "QT4CX6fQP6UP8E39Ne1g3DB1"
+    }
+  }
+}

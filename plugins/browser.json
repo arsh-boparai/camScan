@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-camscanner": {
+            "PACKAGE_NAME": "com.charger.driverapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.charger.driverapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.charger.driverapp"
+        }
+    },
+    "dependent_plugins": {}
+}

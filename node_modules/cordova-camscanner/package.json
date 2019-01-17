@@ -1,0 +1,55 @@
+{
+  "_from": "cordova-camscanner",
+  "_id": "cordova-camscanner@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha1-XLyYqmjeptdvxCv5plADILBj/OA=",
+  "_location": "/cordova-camscanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-camscanner",
+    "name": "cordova-camscanner",
+    "escapedName": "cordova-camscanner",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-camscanner/-/cordova-camscanner-1.2.4.tgz",
+  "_shasum": "5cbc98aa68dea6d76fc42bf9a6500320b063fce0",
+  "_spec": "cordova-camscanner",
+  "_where": "C:\\Users\\arshdeep.singh\\Desktop\\angular\\camscanner-plugin",
+  "author": {
+    "name": "Beelphegor"
+  },
+  "bugs": {
+    "url": "https://github.com/Beelphegor/cordova-camscanner/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-camscanner",
+    "platforms": []
+  },
+  "deprecated": false,
+  "description": "Cordova Camscanner Plugin",
+  "homepage": "https://github.com/Beelphegor/cordova-camscanner#readme",
+  "keywords": [
+    "cordova",
+    "camscanner",
+    "ecosystem:cordova"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-camscanner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beelphegor/cordova-camscanner.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.2.4"
+}
